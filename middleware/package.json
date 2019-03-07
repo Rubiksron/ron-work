@@ -1,11 +1,15 @@
 {
-  "name": "middleware",
+  "name": "middleware-practice",
   "version": "1.0.0",
-  "description": "middleware",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "test": "test"
+    "start": "node server.js"
   },
-  "author": "Ron Dunphy",
-  "license": "ISC"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
