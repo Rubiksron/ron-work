@@ -1,0 +1,11 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ron Dunphy",
+  "license": "ISC"
+}
